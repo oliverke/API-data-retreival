@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API data retreival", "API data retreival.csproj", "{264A7AC2-8AF5-4D9E-B336-C78C08487DD1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{264A7AC2-8AF5-4D9E-B336-C78C08487DD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{264A7AC2-8AF5-4D9E-B336-C78C08487DD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{264A7AC2-8AF5-4D9E-B336-C78C08487DD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{264A7AC2-8AF5-4D9E-B336-C78C08487DD1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00FFE4A1-A5A6-446B-8E52-7B3BD6C4F711}
+	EndGlobalSection
+EndGlobal
